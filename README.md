@@ -1,0 +1,2 @@
+# spotifetch
+Spotify API wrapper
